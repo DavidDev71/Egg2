@@ -13,6 +13,7 @@ public class Cadena {
     
     private String frase;
     private int longi;
+    private String atrib1;
 
     public Cadena() {
     }
